@@ -18,15 +18,15 @@ Connect your application or AI agent to ecommerce research and creative AI. Nexs
 
 External REST/MCP calls use an account API key. Endpoint access varies; Creative API key access requires an active subscription and is not unlocked by trial credits.
 
-## Browser tools — coming soon
+## Browser tools
 
 | Your goal | Tool | What to expect |
 | --- | --- | --- |
 | Learn from competitor complaints | [Amazon Review Analyzer](https://www.nexscope.ai/tools/amazon-review-analyzer?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_reviews) | Recent low-star review analysis, an AI report, and source review CSV. |
 | Explore keywords and competing products | [SEO Keyword Planner](https://www.nexscope.ai/tools/seo-keyword-planner?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_keywords) | US English Google keyword metrics, Amazon US product research, and an AI comparison report. |
-| Inspect a page's SEO evidence | [Website SEO Auditor](https://www.nexscope.ai/tools/website-seo-auditor?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_auditor) | One-page evidence and a separately requested mobile Lighthouse check; service verification pending. |
+| Inspect a page's SEO evidence | [Website SEO Auditor](https://www.nexscope.ai/tools/website-seo-auditor?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_auditor) | One-page evidence and a separately requested mobile Lighthouse check. |
 
-These links are planned production destinations. Check [tool release status and guides](https://github.com/nexscope-ai/ecommerce-ai-tools) before trying them.
+Choose a tool above and sign in with your Nexscope account to run it. See [tool guides and examples](https://github.com/nexscope-ai/ecommerce-ai-tools) to get started.
 
 ## APIs and agent skills
 
