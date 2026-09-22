@@ -19,7 +19,7 @@ AI video generator, ecommerce research, SEO tools, APIs, and agent skills — tu
 
 Upload product images, describe the motion, choose a model, and review the estimated credit cost before generating. Preview and download the result in your browser. Seedance 2.0 Mini is the initial selection; available duration, resolution, and aspect ratio depend on your chosen model.
 
-**[Try the AI Video Generator](https://www.nexscope.ai/tools/ai-video-generator?utm_source=github&utm_medium=referral&utm_campaign=ai_video_generator_launch&utm_content=org_profile)** · [Read the image-to-video workflow guide](https://nexscope-ai.github.io/ecommerce-ai-tools/ai-video-generator/)
+**[Try the AI Video Generator](https://www.nexscope.ai/tools/ai-video-generator?utm_source=github&utm_medium=referral&utm_campaign=ai_video_generator_launch&utm_content=org_profile)** · [Read the image-to-video workflow guide](https://learn.nexscope.ai/ecommerce-ai-tools/ai-video-generator/)
 
 New users get **1,000 free credits**. Sign in with your Nexscope account to generate; credit usage varies by model and settings. Review product accuracy and visual quality before publishing.
 
@@ -53,7 +53,22 @@ External REST/MCP calls use an account API key. Endpoint access varies; Creative
 | Inspect a page's SEO evidence | [Website SEO Auditor](https://www.nexscope.ai/tools/website-seo-auditor?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_auditor) | One-page evidence and a separately requested mobile Lighthouse check. |
 
 
-Choose a tool above and sign in with your Nexscope account to run it. See [tool guides and examples](https://github.com/nexscope-ai/ecommerce-ai-tools) to get started.
+Choose a tool above and sign in with your Nexscope account to run it.
+
+
+## Ecommerce AI guides and community
+
+
+[`ecommerce-ai-tools`](https://github.com/nexscope-ai/ecommerce-ai-tools) is Nexscope's official guide library and public community hub for ecommerce sellers and developers. It brings together evidence-backed workflows for AI video, Amazon research, keyword research, SEO audits, ecommerce APIs, and AI agents.
+
+
+- [Browse the learning center](https://learn.nexscope.ai/ecommerce-ai-tools/) for guides, case studies, trend analysis, and tool comparisons.
+- [Ask a usage or API question](https://github.com/nexscope-ai/ecommerce-ai-tools/discussions/categories/q-a) in Discussions Q&A.
+- [Share a workflow idea](https://github.com/nexscope-ai/ecommerce-ai-tools/discussions/categories/ideas) or discuss a use case with the community.
+- [Report a reproducible bug or request a feature](https://github.com/nexscope-ai/ecommerce-ai-tools/issues/new/choose) when the request needs official tracking.
+
+
+The official Nexscope team reviews public questions and actionable feedback. Remove API keys, customer data, payment information, and other private details before posting.
 
 
 ## APIs and agent skills
@@ -64,14 +79,8 @@ Choose a tool above and sign in with your Nexscope account to run it. See [tool 
 - [Ecommerce SEO and GEO Skills](https://github.com/nexscope-ai/ecommerce-seo-geo-skills) — search and content research workflows.
 
 
-## Talk to the official team
+## Private support
 
 
-**Have a question, found a bug, or need a feature? [Open an issue](https://github.com/nexscope-ai/ecommerce-ai-tools/issues/new/choose).**
-
-
-The official Nexscope team will respond as quickly as possible and follow up on progress toward a resolution. Please remove private information from public reports.
-
-
-Private account or billing questions: [service@nexscope.ai](mailto:service@nexscope.ai).
+For account, billing, or other private questions, email [service@nexscope.ai](mailto:service@nexscope.ai). Never send passwords or access tokens.
 
