@@ -9,7 +9,7 @@
 # Nexscope
 
 
-AI video generator, ecommerce research, SEO tools, APIs, and agent skills — turn product images into videos and evidence into your next action.
+AI product image and video generators, Amazon listing optimization, ecommerce research, SEO tools, APIs, and agent skills — turn product assets and marketplace evidence into your next action.
 
 
 **New users get 1,000 free credits to get started.** [Create your Nexscope account](https://www.nexscope.ai/?utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_signup). Credit usage varies by action.
@@ -44,10 +44,14 @@ External REST/MCP calls use an account API key. Endpoint access varies; Creative
 
 ## Browser tools
 
+Create or refine product visuals, then use Amazon listing, keyword, traffic, and history evidence to decide which changes to test.
+
 
 | Your goal | Tool | What to expect |
 | --- | --- | --- |
+| Create product images and ad concepts | [AI Product Image Generator](https://www.nexscope.ai/tools/ai-image-generator?utm_source=github&utm_medium=referral&utm_campaign=ai_image_generator_launch&utm_content=org_profile_tools) | Choose an image model and create product-focused visuals with reviewable settings and quality guidance. |
 | Turn product images into videos | [AI Video Generator](https://www.nexscope.ai/tools/ai-video-generator?utm_source=github&utm_medium=referral&utm_campaign=ai_video_generator_launch&utm_content=org_profile_tools) | Upload images, choose a model, enter a motion prompt, check estimated credits, then generate, preview, and download. |
+| Audit and optimize an Amazon listing | [AI Amazon Listing Optimizer](https://www.nexscope.ai/tools/amazon-listing-optimization-tool?utm_source=github&utm_medium=referral&utm_campaign=amazon_listing_optimizer_launch&utm_content=org_profile_tools) | Review an ASIN's listing, keyword, traffic, and history evidence before generating a prioritized optimization plan. |
 | Learn from competitor complaints | [Amazon Review Analyzer](https://www.nexscope.ai/tools/amazon-review-analyzer?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_reviews) | Recent low-star review analysis, an AI report, and source review CSV. |
 | Explore keywords and competing products | [SEO Keyword Planner](https://www.nexscope.ai/tools/seo-keyword-planner?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_keywords) | US English Google keyword metrics, Amazon US product research, and an AI comparison report. |
 | Inspect a page's SEO evidence | [Website SEO Auditor](https://www.nexscope.ai/tools/website-seo-auditor?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_auditor) | One-page evidence and a separately requested mobile Lighthouse check. |
@@ -59,7 +63,7 @@ Choose a tool above and sign in with your Nexscope account to run it.
 ## Ecommerce AI guides and community
 
 
-[`ecommerce-ai-tools`](https://github.com/nexscope-ai/ecommerce-ai-tools) is Nexscope's official guide library and public community hub for ecommerce sellers and developers. It brings together evidence-backed workflows for AI video, Amazon research, keyword research, SEO audits, ecommerce APIs, and AI agents.
+[`ecommerce-ai-tools`](https://github.com/nexscope-ai/ecommerce-ai-tools) is Nexscope's official guide library and public community hub for ecommerce sellers and developers. It brings together evidence-backed workflows for AI product images and video, Amazon research and listing optimization, keyword research, SEO audits, ecommerce APIs, and AI agents.
 
 
 - [Browse the learning center](https://learn.nexscope.ai/ecommerce-ai-tools/) for guides, case studies, trend analysis, and tool comparisons.
