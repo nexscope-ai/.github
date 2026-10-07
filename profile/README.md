@@ -42,7 +42,7 @@ Connect your application or AI agent to ecommerce research and creative AI. Nexs
 External REST/MCP calls use an account API key. Endpoint access varies; Creative API key access requires an active subscription and is not unlocked by trial credits.
 
 
-## Browser tools
+## Explore ecommerce tools
 
 Create or refine product visuals, then investigate Amazon, 1688 and TikTok Shop signals before deciding what to test.
 
