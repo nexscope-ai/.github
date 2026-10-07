@@ -9,19 +9,11 @@
 # Nexscope
 
 
-AI product image and video generators, Amazon listing optimization, ecommerce research, SEO tools, APIs, and agent skills — turn product assets and marketplace evidence into your next action.
+Nexscope helps ecommerce sellers research products, competitors, keywords, and customer reviews; review listing and SEO evidence; and create product images or videos. Developers can use its ecommerce data and creative APIs through REST or MCP. This GitHub organization publishes guides, examples, and agent skills for those workflows.
 
 
 **New users get 1,000 free credits to get started.** [Create your Nexscope account](https://www.nexscope.ai/?utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_signup). Credit usage varies by action.
 
-
-## AI Video Generator — turn product images into videos
-
-Upload product images, describe the motion, choose a model, and review the estimated credit cost before generating. Preview and download the result in your browser. Seedance 2.0 Mini is the initial selection; available duration, resolution, and aspect ratio depend on your chosen model.
-
-**[Try the AI Video Generator](https://www.nexscope.ai/tools/ai-video-generator?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=ai_video_generator_launch&utm_content=org_profile)** · [Read the image-to-video workflow guide](https://learn.nexscope.ai/ecommerce-ai-tools/ai-video-generator/)
-
-New users get **1,000 free credits**. Sign in with your Nexscope account to generate; credit usage varies by model and settings. Review product accuracy and visual quality before publishing.
 
 ## API Docs — build ecommerce workflows with REST and MCP
 
@@ -44,13 +36,11 @@ External REST/MCP calls use an account API key. Endpoint access varies; Creative
 
 ## Explore ecommerce tools
 
-Create or refine product visuals, then investigate Amazon, 1688 and TikTok Shop signals before deciding what to test.
+Research marketplace signals, review listing and SEO evidence, then create product visuals when you need new assets.
 
 
 | Your goal | Tool | What to expect |
 | --- | --- | --- |
-| Create product images and ad concepts | [AI Product Image Generator](https://www.nexscope.ai/tools/ai-image-generator?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=ai_image_generator_launch&utm_content=org_profile_tools) | Choose an image model and create product-focused visuals with reviewable settings and quality guidance. |
-| Turn product images into videos | [AI Video Generator](https://www.nexscope.ai/tools/ai-video-generator?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=ai_video_generator_launch&utm_content=org_profile_tools) | Upload images, choose a model, enter a motion prompt, check estimated credits, then generate, preview, and download. |
 | Audit and optimize an Amazon listing | [AI Amazon Listing Optimizer](https://www.nexscope.ai/tools/amazon-listing-optimization-tool?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=amazon_listing_optimizer_launch&utm_content=org_profile_tools) | Review an ASIN's listing, keyword, traffic, and history evidence before generating a prioritized optimization plan. |
 | Learn from competitor complaints | [Amazon Review Analyzer](https://www.nexscope.ai/tools/amazon-review-analyzer?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_reviews) | Recent low-star review analysis, an AI report, and source review CSV. |
 | Find wholesale candidates from an Amazon product | [Amazon to 1688 Supplier Finder](https://learn.nexscope.ai/tools/amazon-to-1688-supplier-finder/?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_1688) | Find visually similar 1688 listings, then inspect selected supplier terms and MOQ. A visual match does not prove factory identity. |
@@ -58,12 +48,17 @@ Create or refine product visuals, then investigate Amazon, 1688 and TikTok Shop 
 | Research creators connected to a product | [TikTok Shop Product-to-Creator Match](https://learn.nexscope.ai/tools/tiktok-shop-creator-match/?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_tiktok_creators) | Shortlist associated creators, then inspect profiles and product-tagged videos before outreach. |
 | Explore keywords and competing products | [SEO Keyword Planner](https://learn.nexscope.ai/tools/seo-keyword-planner/?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_keywords) | US English Google keyword metrics, Amazon US product research, and an optional AI comparison report. Bring your own API key. |
 | Inspect a page's SEO evidence | [Website SEO Auditor](https://www.nexscope.ai/tools/website-seo-auditor?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_auditor) | One-page evidence and a separately requested mobile Lighthouse check. |
-
+| Create product images and ad concepts | [AI Product Image Generator](https://www.nexscope.ai/tools/ai-image-generator?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=ai_image_generator_launch&utm_content=org_profile_tools) | Choose an image model and create product-focused visuals with reviewable settings and quality guidance. |
+| Turn product images into videos | [AI Video Generator](https://www.nexscope.ai/tools/ai-video-generator?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=ai_video_generator_launch&utm_content=org_profile_tools) | Upload images, choose a model, enter a motion prompt, check estimated credits, then generate, preview, and download. |
 
 **[View more ecommerce tools →](https://learn.nexscope.ai/tools/?utm_source=github&utm_medium=referral&utm_campaign=tools_launch&utm_content=org_profile_more_tools)**
 
 The Amazon-to-1688, TikTok Shop and SEO Keyword Planner workflows accept a visitor-provided API key; other tools may require sign-in. Credits may apply to requests you start.
 
+
+## Product video workflow
+
+The AI Video Generator turns supplied product images and a motion prompt into a video using a selected model. Available duration, resolution, aspect ratio, and credit cost depend on the model and settings. Preview and review the result for product accuracy before publishing. [Try the generator](https://www.nexscope.ai/tools/ai-video-generator?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=ai_video_generator_launch&utm_content=org_profile) · [Read the image-to-video guide](https://learn.nexscope.ai/ecommerce-ai-tools/ai-video-generator/).
 
 ## Ecommerce AI guides and community
 
