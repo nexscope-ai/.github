@@ -1,4 +1,4 @@
-<a href="https://www.nexscope.ai/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=org_profile&amp;utm_content=logo">
+<a href="https://www.nexscope.ai/?co-from=githubIO&amp;utm_source=github&amp;utm_medium=referral&amp;utm_campaign=org_profile&amp;utm_content=logo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.nexscope.ai/logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://www.nexscope.ai/logo.png">
@@ -11,10 +11,10 @@
 
 Nexscope helps ecommerce sellers research products, competitors, keywords, and customer reviews; review listing and SEO evidence; and create product images or videos. Developers can use its ecommerce data and creative APIs through REST or MCP. This GitHub organization publishes guides, examples, and agent skills for those workflows.
 
-[![Official Website](https://img.shields.io/badge/Nexscope-Official%20Website-4F46E5?style=flat&labelColor=555)](https://www.nexscope.ai/) [![Discussions](https://img.shields.io/badge/Community-Discussions-D97706?style=flat&labelColor=555)](https://github.com/nexscope-ai/ecommerce-ai-tools/discussions) [![Issues](https://img.shields.io/badge/Feedback-Issues-2DA44E?style=flat&labelColor=555)](https://github.com/nexscope-ai/ecommerce-ai-tools/issues)
+[![Official Website](https://img.shields.io/badge/Nexscope-Official%20Website-4F46E5?style=flat&labelColor=555)](https://www.nexscope.ai/?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=official_website_badge) [![Discussions](https://img.shields.io/badge/Community-Discussions-D97706?style=flat&labelColor=555)](https://github.com/nexscope-ai/ecommerce-ai-tools/discussions) [![Issues](https://img.shields.io/badge/Feedback-Issues-2DA44E?style=flat&labelColor=555)](https://github.com/nexscope-ai/ecommerce-ai-tools/issues)
 
 
-**New users get 1,000 free credits to get started.** [Create your Nexscope account](https://www.nexscope.ai/?utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_signup). Credit usage varies by action.
+**New users get 1,000 free credits to get started.** [Create your Nexscope account](https://www.nexscope.ai/?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_signup). Credit usage varies by action.
 
 
 ## API Docs — build ecommerce workflows with REST and MCP
@@ -25,12 +25,12 @@ Connect your application or AI agent to ecommerce research and creative AI. Nexs
 
 | API family | What you can explore | Documentation |
 | --- | --- | --- |
-| Ecommerce data | Amazon products, prices, reviews and keywords; TikTok Shop research; Shopify stores/products; 1688 sourcing and other marketplaces. | [Data APIs](https://www.nexscope.ai/api-docs?tab=data&co-from=github-org-profile&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_data) |
-| SEO and GEO | Keyword demand, SERPs, page evidence, backlinks and AI citation research. Some endpoint pages are contract drafts; check their published status. | [SEO/GEO references](https://www.nexscope.ai/api-docs?tab=marketing&co-from=github-org-profile&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_seo_geo) |
-| Creative AI | Image generation/editing, background removal and asynchronous video generation. | [Creative AI APIs](https://www.nexscope.ai/api-docs?tab=creative&co-from=github-org-profile&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_creative) |
+| Ecommerce data | Amazon products, prices, reviews and keywords; TikTok Shop research; Shopify stores/products; 1688 sourcing and other marketplaces. | [Data APIs](https://www.nexscope.ai/api-docs?tab=data&co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_data) |
+| SEO and GEO | Keyword demand, SERPs, page evidence, backlinks and AI citation research. Some endpoint pages are contract drafts; check their published status. | [SEO/GEO references](https://www.nexscope.ai/api-docs?tab=marketing&co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_seo_geo) |
+| Creative AI | Image generation/editing, background removal and asynchronous video generation. | [Creative AI APIs](https://www.nexscope.ai/api-docs?tab=creative&co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_creative) |
 
 
-**[Explore API Docs](https://www.nexscope.ai/api-docs?co-from=github-org-profile&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_api_cta)** · [Connect an AI agent via MCP](https://www.nexscope.ai/mcp-map?co-from=github-org-profile&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_mcp) · [See six API workflow examples](https://github.com/nexscope-ai/ecommerce-ai-tools/blob/main/docs/api-capabilities.md)
+**[Explore API Docs](https://www.nexscope.ai/api-docs?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_api_cta)** · [Connect an AI agent via MCP](https://www.nexscope.ai/mcp-map?co-from=githubIO&utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_mcp) · [See six API workflow examples](https://github.com/nexscope-ai/ecommerce-ai-tools/blob/main/docs/api-capabilities.md)
 
 
 External REST/MCP calls use an account API key. Endpoint access varies; Creative API key access requires an active subscription and is not unlocked by trial credits.
