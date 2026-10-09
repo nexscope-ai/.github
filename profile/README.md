@@ -11,6 +11,8 @@
 
 Nexscope helps ecommerce sellers research products, competitors, keywords, and customer reviews; review listing and SEO evidence; and create product images or videos. Developers can use its ecommerce data and creative APIs through REST or MCP. This GitHub organization publishes guides, examples, and agent skills for those workflows.
 
+[![Discussions](https://img.shields.io/badge/Community-Discussions-D97706?style=flat&labelColor=555)](https://github.com/nexscope-ai/ecommerce-ai-tools/discussions) [![Issues](https://img.shields.io/badge/Feedback-Issues-2DA44E?style=flat&labelColor=555)](https://github.com/nexscope-ai/ecommerce-ai-tools/issues)
+
 
 **New users get 1,000 free credits to get started.** [Create your Nexscope account](https://www.nexscope.ai/?utm_source=github&utm_medium=referral&utm_campaign=api_docs_launch&utm_content=org_profile_signup). Credit usage varies by action.
 
