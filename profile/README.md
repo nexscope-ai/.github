@@ -1,5 +1,7 @@
 # Nexscope
 
+[![Official Website](https://img.shields.io/badge/Nexscope-Official%20Website-4F46E5?style=flat&labelColor=555)](https://www.nexscope.ai/?co-from=githubRM&utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=official_website_badge) [![Discussions](https://img.shields.io/badge/Community-Discussions-D97706?style=flat&labelColor=555)](https://github.com/nexscope-ai/ecommerce-ai-tools/discussions) [![Issues](https://img.shields.io/badge/Feedback-Issues-2DA44E?style=flat&labelColor=555)](https://github.com/nexscope-ai/ecommerce-ai-tools/issues)
+
 **Ecommerce data and AI video for sellers, developers, and teams.**
 
 Research products, markets, competitors, and keywords with Nexscope data. Create product images and videos for your listings and campaigns. Use Nexscope on the web, build with our APIs, or connect it to your AI assistant.
