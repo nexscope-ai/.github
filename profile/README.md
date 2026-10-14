@@ -72,6 +72,16 @@ Use image and video models directly in Nexscope, or integrate supported capabili
 | **[AI Product Visibility](https://www.nexscope.ai/ai-product-visibility-tool?co-from=githubRM&utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=tools_for_ecommerce_growth_ai_product_visibility)** | Check whether AI shopping answers mention, rank, or recommend your product. |
 | **[GEO Score Checker](https://www.nexscope.ai/geo-check?co-from=githubRM&utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=tools_for_ecommerce_growth_geo_score_checker)** | Assess your product or store page’s readiness for AI search, citations, and recommendations. |
 
+**Product Gallery — Free feedback on your product page**
+
+Get feedback on your existing ecommerce product page. Submit a public product URL or Amazon ASIN, product details, and images; video is optional. After editorial review, view what works and evidence-based suggestions on your private management page, whether or not your product is selected for publication.
+
+Approved products may also receive a free public Gallery page linking to the original listing. No store connection, seller token, or payment access is required.
+
+[**Request free product-page feedback →**](https://learn.nexscope.ai/ecommerce-ai-tools/product-showcase/submit/?utm_source=github&utm_medium=referral&utm_campaign=product_gallery_launch&utm_content=org_readme_tools) · [How the review works](https://learn.nexscope.ai/ecommerce-ai-tools/product-showcase/) · [Share your product-page challenge](https://github.com/nexscope-ai/ecommerce-ai-tools/discussions/16)
+
+*Save your private management link to read your feedback. Review timing and publication are not guaranteed.*
+
 ## Getting access
 
 New accounts receive **1,000 trial credits valid for 3 days**, with no credit card required.
