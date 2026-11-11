@@ -10,6 +10,8 @@ Research products, markets, competitors, and keywords with Nexscope data. Create
 
 [Explore Nexscope](https://www.nexscope.ai/?co-from=githubRM&utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=intro_explore_nexscope) · [Get an API key](https://www.nexscope.ai/seller/api-access?tab=api-keys&co-from=githubRM&utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=intro_get_an_api_key) · [Book a demo](https://www.nexscope.ai/coffee-chat?co-from=githubRM&utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=intro_book_a_demo)
 
+[**Browse MCP tools**](https://www.nexscope.ai/mcp?co-from=githubRM&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=org_profile_readme_intro) — Find ecommerce, social media, SEO, image, and video tools by task, then follow the connection guide to use them in your AI assistant.
+
 ## Start here
 
 | Get started | What you can do |
